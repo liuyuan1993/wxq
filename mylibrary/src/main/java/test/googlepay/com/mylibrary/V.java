@@ -4,7 +4,7 @@ package test.googlepay.com.mylibrary;
  * Created by Administrator on 2016/7/4 0004.
  */
 public class V {
-    int a=1;
+    public int a=1;
 
-    int b=2;
+    public int b=2;
 }
