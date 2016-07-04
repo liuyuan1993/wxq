@@ -5,4 +5,6 @@ package test.googlepay.com.mylibrary;
  */
 public class V {
     int a=1;
+
+    int b=2;
 }
